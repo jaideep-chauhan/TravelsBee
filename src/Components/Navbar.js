@@ -15,7 +15,7 @@ const Navbar = () => {
           ></span>
           </div>
           <div className="logo heading d-flex">
-            <Link to="/">Travel<span style={{color: '#e95050', fontSize:'22px',padding:'0 2px 5px 2px'}}>•</span>Bee</Link>
+            <Link to="/">Travel<span style={{color: '#e95050', fontSize:'22px',padding:'0 2px 5px 2px'}}>•</span>Beee</Link>
         </div>
         <div className="center-nav">
           <ul className="d-flex">
