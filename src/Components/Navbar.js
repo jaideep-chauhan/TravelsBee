@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="center-nav">
           <ul className="d-flex">
             <li>
-              <NavLink activeClassName="active" to="/" >Home</NavLink>
+              <NavLink activeClassName="active" to="/" >Homee</NavLink>
             </li>
             <li>
               <NavLink activeClassName="active" to="/TravelList">Travel List</NavLink>
