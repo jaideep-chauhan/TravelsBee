@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TravelsBee/static/css/main.592ce6d7.css",
+    "main.js": "/TravelsBee/static/js/main.c703df64.js",
+    "static/js/787.52e2fd08.chunk.js": "/TravelsBee/static/js/787.52e2fd08.chunk.js",
+    "static/media/anil.jpeg": "/TravelsBee/static/media/anil.801f079879755c8cfa8f.jpeg",
+    "index.html": "/TravelsBee/index.html",
+    "main.592ce6d7.css.map": "/TravelsBee/static/css/main.592ce6d7.css.map",
+    "main.c703df64.js.map": "/TravelsBee/static/js/main.c703df64.js.map",
+    "787.52e2fd08.chunk.js.map": "/TravelsBee/static/js/787.52e2fd08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.592ce6d7.css",
+    "static/js/main.c703df64.js"
+  ]
+}
